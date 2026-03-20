@@ -1,0 +1,31 @@
+Skill,Category,Proficiency Expected (Day 1),Proficiency Expected (90 Days),Current Training Method,Assessment Method,Gap Identified,Priority,Notes
+Slack configuration & usage,Communication & Collaboration,Basic,Proficient,Onboarding slide deck,Observation,No,Medium,Must configure notifications and learn channel conventions
+Slack threading & tagging etiquette,Communication & Collaboration,Awareness,Proficient,Onboarding slide deck + guidelines link,Observation,Yes - no formal training,Medium,Critical for async remote team communication
+Slack channel naming conventions,Communication & Collaboration,Awareness,Basic,Link to guidelines provided,None identified,Yes - self-service only,Low,Reference doc provided but no walkthrough
+Notion (project management),Project Management & Process,Awareness,Proficient,Onboarding slide deck,Observation,Yes - no hands-on training,High,Critical for daily work item tracking and project visibility
+Everhour (time tracking),Project Management & Process,Awareness,Proficient,Onboarding slide deck + how-to guide,Timesheet review by PM,Partial - guide provided but no live training,High,Directly affects contractor pay and project budgets
+Everhour time rounding setup,Project Management & Process,Basic,Basic,Step-by-step in slide deck,PM review,No,Low,One-time setup task
+Monthly invoicing process,Administrative,Awareness,Proficient,Onboarding slide deck + template link,Invoice review by AP,Partial - template provided but process is multi-step,High,Errors delay payment; detailed steps in deck
+Google Workspace (Gmail Docs Sheets Slides),Communication & Collaboration,Proficient,Proficient,Assumed pre-existing knowledge,None identified,Yes - no assessment of baseline,Low,Most contractors expected to already know this
+Google Meet (video conferencing),Communication & Collaboration,Basic,Proficient,Onboarding slide deck,Observation,No,Low,Camera-on policy and connectivity fallback explained
+Miro (whiteboarding),Communication & Collaboration,Awareness,Basic,Onboarding slide deck,None identified,Yes - no hands-on training,Low,Used for brainstorming; access granted per project
+Gemini (Google AI assistant),AI & LLM Proficiency,Awareness,Proficient,Onboarding slide deck + Notion page link,None identified,Yes - no formal training or assessment,High,Only approved GenAI tool; contractors may default to other tools
+AI data security awareness,AI & LLM Proficiency,Awareness,Proficient,Onboarding slide deck,None identified,Yes - no formal assessment,High,Must know what NOT to input (PII/PHI credentials API keys IP)
+Approved vs unapproved AI tools policy,AI & LLM Proficiency,Awareness,Proficient,Onboarding slide deck,None identified,Yes - no acknowledgment or sign-off,High,Other tools require CTO approval; easy to violate unknowingly
+GitHub (version control),Development & Technical,Basic,Proficient,Onboarding slide deck,None identified,Yes - assumes pre-existing knowledge,Medium,Contractors expected to have own account; no skills assessment
+Databricks (data platform),Development & Technical,Awareness,Proficient,Project-specific onboarding,None identified,Yes - no general training provided,Medium,Access granted per project; assumes prior experience
+Azure DevOps,Development & Technical,Awareness,Basic,Project-specific onboarding,None identified,Yes - no general training provided,Medium,Used for some client projects; guided instructions promised
+Agile methodology (Scrum/Kanban),Project Management & Process,Basic,Proficient,Onboarding slide deck,Sprint participation,Partial - mentioned but not formally taught,Medium,Good-Better-Best framework is Synaptiq-specific
+The Synaptiq Way (delivery methodology),Project Management & Process,Awareness,Proficient,Onboarding slide deck,Observation,Yes - only overview provided,High,Proprietary methodology; no deep-dive training identified
+Sprint planning & Good-Better-Best framework,Project Management & Process,Awareness,Proficient,Onboarding slide deck,Sprint participation,Yes - Synaptiq-specific with no formal training,High,Unique to Synaptiq; new contractors need hands-on guidance
+HIPAA compliance,Compliance & Security,Awareness,Proficient,KnowBe4 training module,Training completion or equivalent cert + BAA,No - mandatory with 2-week deadline,High,Well-structured; clear requirement and deadline
+Phishing awareness,Compliance & Security,Awareness,Basic,KnowBe4 + Gmail button install,Phishing simulations (implied),Partial - button installed but ongoing training unclear,Medium,Gmail phishing alert button provided with video
+Client data handling & confidentiality,Compliance & Security,Awareness,Proficient,Onboarding slide deck + NDA signing,NDA execution,Partial - policy stated but no scenario-based training,High,No local storage; Google Drive/Notion/GitHub only
+Client communication etiquette,Soft Skills & Culture,Awareness,Proficient,Onboarding slide deck,Observation by Tech Lead/PM,Yes - no formal training or role-play,High,Must coordinate with PM/Tech Lead before client-facing messages
+Internal vs external Slack channel awareness,Soft Skills & Culture,Awareness,Proficient,Onboarding slide deck,Observation,Yes - high-risk area with no formal training,High,Posting in wrong channel can damage client relationships
+Synaptitudes (10 cultural principles),Soft Skills & Culture,Awareness,Proficient,Onboarding slide deck + link,None identified,Yes - referenced but not formally taught or assessed,Medium,Cultural alignment important but no structured onboarding for it
+Email signature setup,Administrative,Awareness,Basic,Onboarding slide deck + how-to guide,Visual check,No,Low,One-time setup task with guide provided
+JustWorks (payroll/benefits),Administrative,Awareness,Basic,Onboarding invite + slide deck,Account creation,No,Low,Guided setup via email invite
+NDA and ICA signing,Administrative,Awareness,Basic,Digital documents sent during onboarding,Signed documents,No,Low,Standard legal onboarding step
+Background check completion,Administrative,Awareness,Basic,Authorization letter sent,Completed check,No,Low,Standard onboarding step
+Entropy Exchange (knowledge sharing),Communication & Collaboration,Awareness,Basic,Onboarding slide deck,None identified,Yes - mentioned but contribution path unclear,Low,Talk to CTO for contribution guidance
